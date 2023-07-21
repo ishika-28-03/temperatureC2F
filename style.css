@@ -10,7 +10,8 @@ h1{
 }
 body{
     background-color: rgb(4, 227, 227);
-    padding: 50px 100px;
+    background-image: url(backgroundimage.jpg);
+    background-size: cover;
     
 }
 #container{
@@ -24,6 +25,7 @@ body{
 }
 .input-div{
     display:inline-block;
+    width:auto;
 }
 .inp{
     padding: 5px, 10px;
@@ -32,7 +34,6 @@ body{
     font-weight: bold;
     width: 250px;
     text-align: center;
-    border-radius: 20px;
     outline: 0;
     border: 3px solid rgb(44, 44, 44);
 }

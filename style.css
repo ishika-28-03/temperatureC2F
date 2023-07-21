@@ -32,7 +32,7 @@ body{
     margin: 10px;
     font-size: 30px;
     font-weight: bold;
-    width: 250px;
+    width: auto;
     text-align: center;
     outline: 0;
     border: 3px solid rgb(44, 44, 44);
